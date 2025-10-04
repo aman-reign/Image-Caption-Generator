@@ -1,1 +1,2 @@
 # Image-Caption-Generator
+The primary objective of this project is to develop a deep learning model capable of generating descriptive captions for images automatically. We aim to harness the complementary strengths of CNNs and LSTMs to extract meaningful image features and generate coherent textual descriptions. By training our model on the Flickr8k dataset, we seek to demonstrate its ability to produce accurate and contextually relevant captions for a diverse range of images
